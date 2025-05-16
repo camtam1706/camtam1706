@@ -22,5 +22,5 @@
 ---
 
 ### 📫 Let's Connect!
-- Email: your-email@example.com
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+- Email: nguyencam1711@gmail.com
+- LinkedIn: [linkedin.com/in/your-link]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/cam-nguyen-7588942b7/))

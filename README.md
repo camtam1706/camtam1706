@@ -22,5 +22,5 @@
 ---
 
 ### 📫 Let's Connect!
-- Email: [Send Mail](nguyencam1711@gmail.com)
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/cam-nguyen-7588942b7)
+- Email: [nguyencam1711@gmail.com](nguyencam1711@gmail.com)
+- LinkedIn: [Click here](https://www.linkedin.com/in/cam-nguyen-7588942b7)

@@ -22,5 +22,5 @@
 ---
 
 ### 📫 Let's Connect!
-- Email: nguyencam1711@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/cam-nguyen-7588942b7/]
+- Email: [Send Mail](nguyencam1711@gmail.com)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/cam-nguyen-7588942b7)

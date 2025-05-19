@@ -17,7 +17,7 @@
 
 ### 🧭 Learning Roadmap
 📌 Check out my full learning journey here:  
-👉 [js-roadmap](https://github.com/camtam1706/js-roadmap)
+👉 [learn-roadmap](https://github.com/camtam1706/learn-roadmap)
 
 ---
 

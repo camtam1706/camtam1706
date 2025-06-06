@@ -2,7 +2,6 @@
 
 <p align="center">
   🚀 A Fullstack JavaScript Developer <br/>
-  🎯 On a 90-day journey to become a Senior Engineer
 </p>
 
 ---
